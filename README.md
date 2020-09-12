@@ -1,4 +1,12 @@
-# clownwm
+<!--
+ * @Author: your name
+ * @Date: 2020-09-12 10:30:25
+ * @LastEditTime: 2020-09-12 11:05:12
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \project\clownwm\README.md
+-->
+# clownwm 2020/9/12
 
 ## Project setup
 ```
