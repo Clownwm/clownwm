@@ -1,6 +1,15 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-09-12 10:30:14
+ * @LastEditTime: 2020-09-12 11:16:26
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \project\clownwm\src\components\HelloWorld.vue
+-->
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2>开发版分支</h2>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
